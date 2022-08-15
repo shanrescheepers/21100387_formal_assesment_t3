@@ -5,7 +5,7 @@ const cors = require('cors');
 require('dotenv/config');
 
 const app = express();
-
+// connect hier
 app.use(cors({
     origin: 'http://localhost:3000'
 }));
