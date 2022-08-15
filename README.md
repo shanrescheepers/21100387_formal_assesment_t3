@@ -39,7 +39,7 @@ The project is preconfigured with a simple development web server. The simplest 
 
 
 ### Project Structure
-![image1](https://raw.githubusercontent.com/shanrescheepers/21100387_formal_assesment_t3/21100387_formal_assesment_t3/client/src/assets/stinderdb.png)
-![image2](https://raw.githubusercontent.com/shanrescheepers/21100387_formal_assesment_t3/21100387_formal_assesment_t3/client/src/assets/stinder1.png)
-![image3](https://raw.githubusercontent.com/shanrescheepers/21100387_formal_assesment_t3/21100387_formal_assesment_t3/client/src/assets/stinder2.png)
+![image1](https://raw.githubusercontent.com/shanrescheepers/21100387_formal_assesment_t3/main/client/src/assets/stinderdb.png)
+![image2](https://raw.githubusercontent.com/shanrescheepers/21100387_formal_assesment_t3/main/client/src/assets/stinder1.png)
+![image3](https://raw.githubusercontent.com/shanrescheepers/21100387_formal_assesment_t3/main/client/src/assets/stinder2.png)
 
