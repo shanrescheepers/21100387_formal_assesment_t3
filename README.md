@@ -1,13 +1,6 @@
 # 21100387_formal_assesment_t3
  Term 3 Formal Assesment 2022
 
-![Github repo size](https://img.shields.io/github/repo-size/shanrescheepers/21100387_formal_assesment_t3)
-![Github watchers](https://img.shields.io/github/watchers/shanrescheepers/21100387_formal_assesment_t3?style=social)
-![Github language count](https://img.shields.io/github/languages/count/shanrescheepers/21100387_formal_assesment_t3)
-![Github code size in bytes](https://img.shields.io/github/languages/code-size/shanrescheepers/21100387_formal_assesment_t3)
-![Github repo stars](https://img.shields.io/github/stars/shanrescheepers/21100387_formal_assesment_t3?style=social)
-![Github top language](https://img.shields.io/github/languages/top/shanrescheepers/21100387_formal_assesment_t3)
-
 <!-- HEADER SECTION -->
 <h5 align="center" style="padding:1;margin:0;">Shanré Scheepers</5>
 <h5 align="center" style="padding:1;margin:0;">21100387</5>
@@ -46,7 +39,7 @@ The project is preconfigured with a simple development web server. The simplest 
 
 
 ### Project Structure
-![image1](https://raw.githubusercontent.com/shanrescheepers/21100387_formal_assesment_t3/client/src/assets/stinderdb.png)
-![image2](https://raw.githubusercontent.com/shanrescheepers/21100387_formal_assesment_t3/client/src/assets/stinder1.png)
-![image3](https://raw.githubusercontent.com/shanrescheepers/21100387_formal_assesment_t3/client/src/assets/stinder2.png)
+![image1](https://raw.githubusercontent.com/shanrescheepers/21100387_formal_assesment_t3/21100387_formal_assesment_t3/client/src/assets/stinderdb.png)
+![image2](https://raw.githubusercontent.com/shanrescheepers/21100387_formal_assesment_t3/21100387_formal_assesment_t3/client/src/assets/stinder1.png)
+![image3](https://raw.githubusercontent.com/shanrescheepers/21100387_formal_assesment_t3/21100387_formal_assesment_t3/client/src/assets/stinder2.png)
 
