@@ -9,7 +9,8 @@
 <p align="center">
 
 ## Getting Started
-To get you started you can simply clone the repository:
+To get you started you can simply clone the repository: https://github.com/shanrescheepers/21100387_formal_assesment_t3
+This project is materialised with MUI (see installation below)
 
 ```
 git clone hhttps://github.com/shanrescheepers/21100387_formal_assesment_t3
@@ -18,6 +19,13 @@ and install the dependencies
 ```
 npm i and npm i mongodb mongoose nodemon dotenv   
 ```
+npm install @mui/material @emotion/react @emotion/styled   
+```
+npm install @mui/material @mui/styled-engine-sc styled-components  
+```
+npm install @mui/material @emotion/react @emotion/styled     
+```
+
 
 ### Prerequisites
 You need git to clone the repository. You can get git from
